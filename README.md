@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Juliette, a Full-stack developer in progress 👨‍💻 Always learning and building.</div>
 - 🌱 I’m currently learning LLMs and JS
 <br/>
